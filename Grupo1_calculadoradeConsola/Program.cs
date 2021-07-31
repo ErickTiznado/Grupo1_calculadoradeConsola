@@ -3,9 +3,12 @@
 namespace Calculator
 {
     class Grupo1_calculadoradeConsola
-    {
+    { 
         static void Main(string[] args)
         {
+            //Erick Mauricio Tiznado
+
+
             // Declara Variables y luego inicializa a cero.
             Double valor1 = 0; Double valor2 = 0;
 
