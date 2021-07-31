@@ -7,8 +7,8 @@ namespace Calculator
         static void Main(string[] args)
         {
             //Erick Mauricio Tiznado 
-            //Nathaly Milena Zelaya
-//Franklin Stanley Larin
+            //Franklin Stanley Larin
+            
             // Declara Variables y luego inicializa a cero.
             Double valor1 = 0; Double valor2 = 0;
 
