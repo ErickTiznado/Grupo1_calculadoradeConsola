@@ -8,7 +8,8 @@ namespace Calculator
         {
             //Erick Mauricio Tiznado 
             //Franklin Stanley Larin
-            
+            //Oscar Manuel Lopez Velasquez
+
             // Declara Variables y luego inicializa a cero.
             Double valor1 = 0; Double valor2 = 0;
 
