@@ -10,6 +10,7 @@ namespace Calculator
             //Franklin Stanley Larin
             //Oscar Manuel Lopez Velasquez
             //Nathaly Milena Zelaya Caballero 
+            //Julissa Odaly Sosa Flores
 
             // Declara Variables y luego inicializa a cero.
             Double valor1 = 0; Double valor2 = 0;
